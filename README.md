@@ -1,7 +1,7 @@
 # 👨‍🏫 About the Instructor
 
 **Onkar Kapuskari**
-Software Engineer at Red Hat | xDeloitte | xTesla | B.Tech (IT), VIT Pune
+Software Engineer at Red Hat | xDeloitte | xTesla | B.Tech (IT)
 
 Passionate about Physics and problem-solving. My teaching style follows the **Kota pattern**, focusing on concept building, logical thinking, and solving problems using first principles rather than memorization.
 
